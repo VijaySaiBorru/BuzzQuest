@@ -117,7 +117,6 @@ To add or change categories:
 
 - [NewsAPI.org](https://newsapi.org) – Real-time news data provider
 - [Google Fonts](https://fonts.google.com) – Poppins and Roboto fonts
-- Inspired by: CodeWithCurious News App Tutorial
 
 ---
 
