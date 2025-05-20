@@ -110,6 +110,8 @@ To add or change categories:
 | 📃 Description snippet...                            |
 +------------------------------------------------------+
 ```
+![image](https://github.com/user-attachments/assets/ebd50218-42f8-456c-b8f8-147fbb3d1ae6)
+
 
 ---
 
